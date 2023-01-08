@@ -1,0 +1,19 @@
+id: AFA9D5800
+title: 'Luminous Bindu: A Guru Sādhana of the Eighty-Four Mahāsiddhas'
+type: translation
+pechas:
+- IC15C443F
+- I5DD4A576
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:39:06.589407
+  last_modified_at: 2023-01-04 12:39:06.589431
+  collections:
+  - Jedrung Jampa Jungné Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC15C443F/DD2E: C6B0
+  I5DD4A576/C435: C6B0
